@@ -41,7 +41,6 @@ public class Pages {
         {
             return 1;
         }
-        if (currentPage )
         return currentPage - (numberOfPagesToDisplay / 2) + 1;
     }
 
